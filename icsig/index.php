@@ -1,0 +1,1 @@
+	<?php require_once "inter/pages/inicio.php"?>

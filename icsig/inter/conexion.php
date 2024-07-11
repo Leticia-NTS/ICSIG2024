@@ -1,3 +1,3 @@
 <?php
-     $conexion=mysqli_connect('localhost','root','','sig');      
+$conexion = mysqli_connect('localhost', 'root', '', 'sig');
 ?>
